@@ -1,5 +1,5 @@
 # Made by nananananate
-# Check out CourseCake!
+# Check out CourseCake! http://docs.coursecake.tisuela.com/
 
 
 def hello_world():

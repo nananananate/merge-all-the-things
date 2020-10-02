@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Merge All The Things
+
+
+repo_url: https://github.com/Carlangueitor/merge-all-the-things
+repo_name: Carlangueitor/merge-all-the-things
+
+theme:
+  name: material
